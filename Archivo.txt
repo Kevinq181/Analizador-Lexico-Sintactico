@@ -1,0 +1,7 @@
+inicio
+	integer hola;
+	if ( E < E ){
+		hola = 100;
+	}
+final
+$
